@@ -17,3 +17,4 @@
 - components/Navbar.jsx  - Classical MUI navigation bar
 - components/message.jsx - Message(message) - Takes a message as object({text:message to be displayed,sender: bot or user}) and displays it in ChatArea
 - components/initial.jsx - Initial(feeds,clickfeed) - displays the initial screen with logo and 4 buttons feeds=Array of objects ({message : message to be shown on feed}) clickfeed= function decides what to do when a feed is clicked.
+- components/sendIcon.jsx - A send icon
